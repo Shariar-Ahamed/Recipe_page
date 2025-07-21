@@ -31,11 +31,11 @@ This is a solution to the [Social links profile](https://www.frontendmentor.io/c
 
 -Active States:
 
-<img src="https://raw.githubusercontent.com/ShahriarTbc/Recipe_page/main/active-states.jpg" alt="Active States" width="466" height="953">
+<img src="https://raw.githubusercontent.com/Shariar-Ahamed/Recipe_page/main/active-states.jpg" alt="Active States" width="466" height="953">
 
 ### Links
 
-- Solution URL: (https://shahriartbc.github.io/Recipe_page/)
+- Solution URL: (https://Shariar-Ahamed.github.io/Recipe_page/)
 
 ## My process
 
